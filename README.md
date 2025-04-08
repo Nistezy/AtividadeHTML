@@ -9,7 +9,7 @@ Foi feito por todos - Index.HTML
 Este repositório faz parte de uma atividade colaborativa para criar páginas HTML individuais, com elementos básicos, sem CSS.
 
 Maurício: Criador do repositório no GitHub.
-Colaborador do projeto (Enrico e Satio). Criou sua própria página HTML com base no modelo proposto.
+Colaborador do projeto (maurício, Enrico e Satio). Criou sua própria página HTML com base no modelo proposto.
 
 #O que foi feito
 
